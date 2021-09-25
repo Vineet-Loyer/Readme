@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VineetLoyer
+- 👋 Hi, I’m Neo
 - 👀 I’m interested in Applied Data Science and Machine Learning
 - 📫 How to reach me https://www.linkedin.com/in/vineet-loyer
 
